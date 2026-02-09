@@ -16,4 +16,4 @@ I moved into data analytics after working closely with internal company data and
 
 ## 💬 Get in touch
 - Email: katerinakemenova@gmail.com
-- Telegram: [@asmocath](t.me/asmocath)
+- Telegram: [@asmocath](https://t.me/asmocath)
