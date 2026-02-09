@@ -15,6 +15,6 @@ I moved into data analytics after working closely with internal company data and
 ## 💼 [Data Analyst Portfolio](https://github.com/ekaterinakemenova/data-analyst-portfolio) 
 
 ## 💬 Get in touch
-I’m open to new opportunities — feel free to get in touch:
+I’m open to new opportunities - feel free to get in touch:
 - Email: katerinakemenova@gmail.com
 - Telegram: [@asmocath](https://t.me/asmocath)
