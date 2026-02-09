@@ -2,7 +2,7 @@
 
 I’m a Data Analyst with ~1 year of hands-on project experience and a 4-year background in marketing communications in tech. 
 
-I moved into data analytics after working closely with internal company data and analytics teams to develop data-driven communications - I realized I wanted to uncover insights myself, not just communicate them.
+After years of building data-driven communications, I realized I wanted to go deeper: not just communicate insights, but uncover them myself and support data-driven business decisions.
 
 ## 🛠 Stack & Skills
 - Python (pandas, NumPy, SciPy, statsmodels, matplotlib, seaborn)  
