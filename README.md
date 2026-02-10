@@ -4,7 +4,7 @@ I’m a Data Analyst with ~1 year of hands-on project experience and a 4-year ba
 
 ## 🛠 Stack & Skills
 - Python (pandas, NumPy, SciPy, statsmodels, matplotlib, seaborn)  
-- SQL (data extraction, joins, aggregations, window functions, subqueries/CTEs)
+- SQL (data extraction, joins, aggregations, window functions, subqueries/CTEs) | PostgreSQL
 - R (tidyverse, ggplot2)
 - BI & visualization (Yandex DataLens, Tableau, Power BI)
 - Spreadsheets (MS Excel, Google Sheets)
