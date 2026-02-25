@@ -12,7 +12,7 @@ I’m a Data Analyst with ~1 year of hands-on project experience and a 4-year ba
 
 ## 📂 Portfolio
 - [Data analyst portfolio](https://github.com/ekaterinakemenova/data-analyst-portfolio) - structured сoursework projects
-- [Pet projects](https://github.com/ekaterinakemenova/pet-projects) - independent, real-world analytics projects
+- [Pet projects](https://github.com/ekaterinakemenova/pet-projects) - independent analytics projects
 
 ## 💬 Get in touch
 I’m open to new opportunities - feel free to get in touch:
