@@ -10,7 +10,9 @@ I’m a Data Analyst with ~1 year of hands-on project experience and a 4-year ba
 - Spreadsheets (MS Excel, Google Sheets)
 - Statistics, hypothesis testing, A/B testing
 
-## 💼 [Data Analyst Portfolio](https://github.com/ekaterinakemenova/data-analyst-portfolio) 
+## 📂 Portfolio
+- [Data analyst portfolio](https://github.com/ekaterinakemenova/data-analyst-portfolio) - Structured training projects.
+- [Pet projects](https://github.com/ekaterinakemenova/pet-projects) - Independent, real-world analytics projects.
 
 ## 💬 Get in touch
 I’m open to new opportunities - feel free to get in touch:
