@@ -11,7 +11,7 @@ I’m a Data Analyst with ~1 year of hands-on project experience and a 4-year ba
 - Statistics, hypothesis testing, A/B testing
 
 ## 📂 Portfolio
-- [Data analyst portfolio](https://github.com/ekaterinakemenova/data-analyst-portfolio) - structured training projects.
+- [Data analyst portfolio](https://github.com/ekaterinakemenova/data-analyst-portfolio) - structured сoursework projects.
 - [Pet projects](https://github.com/ekaterinakemenova/pet-projects) - independent, real-world analytics projects.
 
 ## 💬 Get in touch
