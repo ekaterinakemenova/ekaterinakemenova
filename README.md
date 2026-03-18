@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Ekaterina 
 
-I’m a Data Analyst with ~1 year of hands-on project experience and a 4-year background in tech PR & Communications. 
+I’m a Data Analyst combining hands-on experience in SQL, Python, and BI tools with a background in tech PR & communications. 
 
 ## 🛠 Stack & Skills
 - Python (pandas, NumPy, SciPy, statsmodels, matplotlib, seaborn)  
