@@ -4,7 +4,7 @@ I’m a Data Analyst combining hands-on experience in SQL, Python, and BI tools 
 
 ## 🛠 Stack & Skills
 - Python (pandas, NumPy, SciPy, statsmodels, matplotlib, seaborn)  
-- SQL (Trino, Amazon Athena, ClickHouse, PostgreSQL) | data extraction, joins, aggregations, window functions, subqueries/CTEs
+- SQL (Trino, Amazon Athena, ClickHouse, PostgreSQL)
 - R (tidyverse, ggplot2)
 - BI & visualization (Yandex DataLens, Tableau)
 - Spreadsheets (MS Excel, Google Sheets)
